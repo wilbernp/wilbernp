@@ -60,7 +60,6 @@
 
 
 
- -->
 <a href="mailto:wilbernarvaezpetrogmail.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail"></a>
 <!-- </p> -->
