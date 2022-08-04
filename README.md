@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilbernp&show_icons=true)](https://github.com/shivam0110)
+[![Wilber GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilbernp&show_icons=true)](https://github.com/wilbernp/wilbernp)
 <hr>
 <br/>
 
