@@ -64,5 +64,5 @@
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail"></a>
 <!-- </p> -->
 
-[Hello, world!](https://www.linkedin.com/in/wilber-narvaez-51bba0243/){target="_blank"}
+[Hello, world!](https://www.linkedin.com/in/wilber-narvaez-51bba0243/?target=_blank)
 <!-- <hr> -->
