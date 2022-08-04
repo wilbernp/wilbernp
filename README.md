@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp;  | Express | PostgreSQL | MongoDB
+- 💻 &nbsp; | Node.js | Express | PostgreSQL | MongoDB
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux 
 
