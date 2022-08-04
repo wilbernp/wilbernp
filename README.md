@@ -12,7 +12,7 @@
 
 - 🧡 &nbsp; Amo el trabajo en equipo.
 
-- ✍️ &nbsp; Soy perseverante y no descanzo hasta conseguir mis metas.
+- 🚀 &nbsp; Soy perseverante y no descanzo hasta conseguir mis metas.
 
 
 
@@ -51,25 +51,18 @@
 
 
 
-
-
-
-
 <h3> 🤝🏻 Contacteme </h3>
 
-<br>
+<!-- <p align="center"> -->
+
+<a href="https://www.linkedin.com/in/wilber-narvaez-51bba0243/"> 
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Gmail"></a>
+
+
+<a href="mailto:wilbernarvaezpetrogmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt=" Linkedin"></a>
+<!-- </p> -->
 
 
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/wilber-narvaez-51bba0243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-
-<a href="mailto:wilbernarvaezpetrogmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
-
-<hr>
+<!-- <hr> -->
