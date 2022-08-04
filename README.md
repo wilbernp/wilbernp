@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Node.js | Express | PostgreSQL | MongoDB
+- 💻 &nbsp;  | Express | PostgreSQL | MongoDB
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux 
 
@@ -56,11 +56,11 @@
 <!-- <p align="center"> -->
 
 <a href="https://www.linkedin.com/in/wilber-narvaez-51bba0243/"> 
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Gmail"></a>
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linkedin"></a>
 
 
 <a href="mailto:wilbernarvaezpetrogmail.com">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt=" Linkedin"></a>
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail"></a>
 <!-- </p> -->
 
 
