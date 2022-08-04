@@ -7,6 +7,8 @@
 Desarrollador web Full Stack con gran capacidad de resolucion de problemas, con habilidades para trabajar en equipo, y aprender e implementar nuevas tecnologías rápidamente.
 Me encanta resolver problemas a traves de codigo, buscando siempre las soluciones mas optimas para cualquier problema y ademas que el codigo sea legible y escalable.
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 - 🔭Por el momento estoy en busca de  trabajo
 
 - 🌱 Actualmente sigo especializandome en React 
