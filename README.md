@@ -60,12 +60,12 @@
 
 <!-- [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
-[gooooo]("https://www.linkedin.com/in/wilber-narvaez-51bba0243/"){:target="_blank rel="noopener noreferrer"}
+
  -->
 <a href="mailto:wilbernarvaezpetrogmail.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail"></a>
 <!-- </p> -->
 
-
+[gooooo]("https://www.linkedin.com/in/wilber-narvaez-51bba0243/"){:target="_blank rel="noopener noreferrer"}
 
 <!-- <hr> -->
