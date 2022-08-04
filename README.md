@@ -14,7 +14,7 @@ Me encanta resolver problemas a traves de codigo, buscando siempre las solucione
 - 📫 Contacto **wilbernarvaezpetro@gmail.com**
 
 <p align="left"> - Mi perfil de linkedin:
-<a href="https://www.linkedin.com/in/wilber-narvaez-51bba0243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-full-stack-developer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wilber-narvaez-51bba0243/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-full-stack-developer" height="30" width="40" /></a>
 </p>
 
 
