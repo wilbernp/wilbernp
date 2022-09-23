@@ -22,14 +22,16 @@
 
 - 💻 &nbsp; | Node.js | Express | PostgreSQL | MongoDB
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux 
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux
+
+- 📱  &nbsp; React Native
 
 
 
 
 <h3>🛠 Estoy aprendiendo</h3>
 
-- 🔧 &nbsp; Java | Nextjs | React Native
+- 🔧 &nbsp; Java | Nextjs
 
 <hr>
 
