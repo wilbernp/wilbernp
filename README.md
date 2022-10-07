@@ -31,7 +31,7 @@
 
 <h3>🛠 Estoy aprendiendo</h3>
 
-- 🔧 &nbsp; Java | Nextjs
+- 🔧 &nbsp; Java | Spring Boot | Nextjs
 
 <hr>
 
