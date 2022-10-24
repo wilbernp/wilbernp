@@ -31,10 +31,12 @@
 
 - 🐕 <a href="https://github.com/wilbernp/PI-Dogs-Henry">PI Dogs Henry<a/>
 
+- ☑️ <a href="https://github.com/wilbernp/todo-app">Todo App Frontend Mentor<a/>
+
 
 <h3>🛠 Estoy aprendiendo</h3>
 
-- 🔧 &nbsp; Java | Spring Boot | Nextjs
+- 🔧 &nbsp; Java | Spring Boot | Nextjs | Nestjs
 
 <hr>
 
