@@ -34,7 +34,7 @@
 - ☑️ <a href="https://github.com/wilbernp/todo-app">Todo App Frontend Mentor<a/>
 
 
-<h3>🛠 Estoy aprendiendo</h3>
+<h3>🧐 Estoy aprendiendo</h3>
 
 - 🔧 &nbsp; Java | Spring Boot | Nextjs | Nestjs
 
