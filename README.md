@@ -12,7 +12,7 @@
 
 - 🧡 &nbsp; Amo el trabajo en equipo.
 
-- 🚀 &nbsp; Soy perseverante y no descanzo hasta conseguir mis metas.
+- 🚀 &nbsp; Soy perseverante y siempre con un proposito en mente: "Alcanzar las metas propuestas".
 
 
 
