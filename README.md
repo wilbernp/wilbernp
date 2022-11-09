@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; | Node.js | Express | PostgreSQL | MongoDB
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Redux
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Redux
 
 - 📱  &nbsp; React Native
 
