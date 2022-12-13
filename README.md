@@ -62,7 +62,7 @@
 
 <!-- <p align="center"> -->
 
-<a href="https://www.linkedin.com/in/wilber-narvaez-51bba0243/" target="_blank"> 
+<a href="https://www.linkedin.com/in/wilber-narvaez/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linkedin"></a>
 
 
