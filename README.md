@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; | Node.js | Express | PostgreSQL | MongoDB
+- 💻 &nbsp; | Node.js | Express | PostgreSQL | MongoDB | Nestjs
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Redux
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Redux | Nextjs
 
 - 📱  &nbsp; React Native
 
@@ -36,7 +36,7 @@
 
 <h3>🧐 Estoy aprendiendo</h3>
 
-- 🔧 &nbsp; Java | Spring Boot | Nextjs | Nestjs
+- 🔧 &nbsp; Java | Spring Boot
 
 <hr>
 
