@@ -29,8 +29,6 @@
 
 <h3>🛠 Mis proyectos</h3>
 
-- 🐕 <a href="https://github.com/wilbernp/PI-Dogs-Henry">PI Dogs Henry<a/>
-
 - ☑️ <a href="https://github.com/wilbernp/todo-app">Todo App Frontend Mentor<a/>
 
 
