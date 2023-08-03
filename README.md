@@ -2,9 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 Sobre mi </h3>
-
-
+<h3>👨🏻 Sobre mi </h3>
 
 - 🤔 &nbsp; Estoy en constante aprendizaje y en busca de nuevos retos.
 
@@ -12,33 +10,26 @@
 
 - 🧡 &nbsp; Amo el trabajo en equipo.
 
-- 🚀 &nbsp; Soy perseverante y siempre con un proposito en mente: "Alcanzar las metas propuestas".
+- ✅ &nbsp; Apasionado por el codigo limpio y las buenas practicas
 
+<h3>🖥 Stack de tecnologias</h3>
 
-
-<h3>🛠 Stack de tecnologias</h3>
-
-
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Redux Toolkit | Tailwind CSS | Boostrap 5
 
 - 💻 &nbsp; | Node.js | Express | PostgreSQL | MongoDB | Nestjs
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Redux | Nextjs
-
 - 📱  &nbsp; React Native
+
+- 🛠 Git | Github | Linux | Vercel | Docker
 
 
 <h3>🛠 Mis proyectos</h3>
 
 - ☑️ <a href="https://github.com/wilbernp/todo-app">Todo App Frontend Mentor<a/>
 
-
-<h3>🧐 Estoy aprendiendo</h3>
-
-- 🔧 &nbsp; Java | Spring Boot
+- 💬 <a href="https://flappychat.vercel.app">Flappy Chat<a/>
 
 <hr>
-
-
 
 <br/><br/>
 
