@@ -16,7 +16,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Redux Toolkit | Tailwind CSS | Boostrap 5
 
-- 💻 &nbsp; | Node.js | Express | PostgreSQL | MongoDB | Nestjs
+- 💻 &nbsp; Node.js | Express | PostgreSQL | MongoDB | Nestjs
 
 - 📱  &nbsp; React Native
 
