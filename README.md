@@ -14,7 +14,7 @@
 
 <h3>🖥 Stack de tecnologias</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Redux Toolkit | Tailwind CSS | Boostrap 5
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | Tailwind CSS | Boostrap 5
 
 - 💻 &nbsp; Moodle | PHP | Node.js | Express | PostgreSQL | MySQL
 
