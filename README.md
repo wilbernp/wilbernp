@@ -22,13 +22,6 @@
 
 - 🛠 Git | Github | Linux | Vercel | Docker
 
-
-<h3>🛠 Mis proyectos</h3>
-
-- ☑️ <a href="https://github.com/wilbernp/todo-app">Todo App Frontend Mentor<a/>
-
-- 💬 <a href="https://flappychat.vercel.app">Flappy Chat<a/>
-
 <hr>
 
 <br/><br/>
